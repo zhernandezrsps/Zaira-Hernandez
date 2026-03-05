@@ -1,6 +1,3 @@
-# Zaira-Hernandez
-Information about me
-
 # Welcome to my GitHub profile, hello everyone...
 
 ## About Me
